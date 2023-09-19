@@ -1,6 +1,8 @@
 /* Make sure all code goes beneath this line */
 root{
-
+--basic: #0F0; /* Variable declartion --*/
+    font-family: 'Times New Roman', Garmond, serif;
+    background-color: #707070;
     
 }
 body{

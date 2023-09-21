@@ -1,9 +1,9 @@
 /* Make sure all code goes beneath this line */
 :root{
---basic: rgb(15, 13, 15); /* for paragraph --*/
---header: #19191b;
+--basic: #c04600; /* for paragraph --*/
+--header: #c04600;
     font-family: 'Times New Roman', Garmond, serif;
-    background-color: #e7dede;
+    background-color: #1a1b1b;
     
     
 }
@@ -16,6 +16,7 @@ color: var(--header);
 h2{
     text-align: center;
     font-size: 26px;
+    color:var(--header);
 }
 
 
